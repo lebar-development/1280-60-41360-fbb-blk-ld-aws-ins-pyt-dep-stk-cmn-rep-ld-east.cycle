@@ -1,0 +1,17 @@
+{
+  "resourceMetadataKEY": "yes",
+  "modules": [
+    {
+      "name": "module_name_1",
+      "version": "1.0.0"
+    },
+    {
+      "name": "module_name_2",
+      "version": "2.3.1"
+    },
+    {
+      "name": "module_name_3",
+      "version": "0.5.2"
+    }
+  ]
+}
