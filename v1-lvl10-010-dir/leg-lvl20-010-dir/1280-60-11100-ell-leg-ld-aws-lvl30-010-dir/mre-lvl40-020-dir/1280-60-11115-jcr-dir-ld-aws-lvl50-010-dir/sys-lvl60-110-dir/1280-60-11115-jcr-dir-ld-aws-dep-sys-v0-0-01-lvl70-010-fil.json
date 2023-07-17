@@ -1,0 +1,11 @@
+{
+  "resourceMetadataKEY": "yes",
+  "stackVersionNumberKEY": "v0-0-01",
+  "operatingSystemNameKEY": "ubuntu",
+  "operatingSystemVersionNumberKEY": "20.04",
+  "k8sClusterNameKEY": "lebar-dev-private",
+  "k8sClusterVersionNumberKEY": "1.21",
+  "botNameKEY": "botname",
+  "botVersionNumberKEY": "v0-0-04",
+  "baseImageIDKEY": "image-id"
+}
